@@ -1,3 +1,3 @@
-# jsGame-goblin-chaser
+# Goblin Chaser!
 
-It's a game on JS to practice and study.
+It's a  simple game on JS to practice and study.
