@@ -1,4 +1,4 @@
-#JS-GoblinChaser
+# JS-GoblinChaser
 
 It's a  simple game on JS to practice and study.
 
